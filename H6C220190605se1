@@ -1,0 +1,1 @@
+Failed to align ref and hypotheses; got exception  <class 'UnboundLocalError'> local variable 'pair' referenced before assignment
