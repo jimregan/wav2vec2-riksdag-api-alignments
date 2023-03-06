@@ -3657,4 +3657,3 @@
 2442207120019327721 1 1600.56 0.64 tjugohundratrettio 1.0 <eps> ins
 2442207120019327721 1 1601.82 0.62 slutcitat 1.0 tvåtusen sub
 2442207120019327721 1 1603.08 0.019 i 1.0 trettio sub
-Failed to align ref and hypotheses; got exception  <class 'IndexError'> string index out of range

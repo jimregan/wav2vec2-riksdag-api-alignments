@@ -673,4 +673,3 @@
 2442207080018818721 1 320.2 0.22 andra 1.0 andra cor
 2442207080018818721 1 320.48 0.359 februari 1.0 februari cor
 2442207080018818721 1 320.9 0.72 nitternhundrafyrtio 1.0 nittonfyrtio sub
-Failed to align ref and hypotheses; got exception  <class 'IndexError'> string index out of range

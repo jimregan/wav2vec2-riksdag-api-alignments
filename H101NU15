@@ -591,4 +591,3 @@
 2442207080018940921 1 326.339 0.0 <eps> 1.0 tolv del
 2442207080018940921 1 326.339 0.0 <eps> 1.0 : del
 2442207080018940921 1 326.339 0.0 <eps> 1.0 nittionio del
-Failed to align ref and hypotheses; got exception  <class 'IndexError'> string index out of range

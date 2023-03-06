@@ -2923,4 +2923,3 @@
 2442207160019915621 1 1334.66 0.379 procent 1.0 procent cor
 2442207160019915621 1 1335.039 0.0 <eps> 1.0 tvåtusen del
 2442207160019915621 1 1335.039 0.0 <eps> 1.0 elva del
-Failed to align ref and hypotheses; got exception  <class 'IndexError'> string index out of range

@@ -121,4 +121,3 @@
 2442207130019452121 1 63.72 0.359 fjorton 1.0 fjortondelar sub
 2442207130019452121 1 64.18 0.278 kolon 1.0 : sub
 2442207130019452121 1 64.72 0.579 etthundra 1.0 hundra sub
-Failed to align ref and hypotheses; got exception  <class 'IndexError'> string index out of range

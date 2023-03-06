@@ -1002,4 +1002,3 @@
 2442207120019346821 1 409.36 0.099 till 1.0 - sub
 2442207120019346821 1 409.48 0.24 tjugohundra 1.0 tvåtusen sub
 2442207120019346821 1 409.76 0.259 arton 1.0 arton cor
-Failed to align ref and hypotheses; got exception  <class 'IndexError'> string index out of range

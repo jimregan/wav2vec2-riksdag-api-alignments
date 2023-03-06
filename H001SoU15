@@ -201,4 +201,3 @@
 2442207180020050021 1 104.16 0.18 mål 1.0 januari sub
 2442207180020050021 1 104.4 0.119 tre 1.0 tre cor
 2442207180020050021 1 104.66 0.2 punkt 1.0 <eps> ins
-Failed to align ref and hypotheses; got exception  <class 'IndexError'> string index out of range

@@ -228,4 +228,3 @@
 2442207130019469521 1 107.54 0.0 <eps> 1.0 tretton del
 2442207130019469521 1 107.54 0.0 <eps> 1.0 : del
 2442207130019469521 1 107.54 0.0 <eps> 1.0 trettioett del
-Failed to align ref and hypotheses; got exception  <class 'IndexError'> string index out of range

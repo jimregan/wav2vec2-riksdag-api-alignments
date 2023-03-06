@@ -1859,4 +1859,3 @@
 2442207080018806721 1 836.04 0.259 tolv 1.0 tolv cor
 2442207080018806721 1 836.46 0.159 kon 1.0 : sub
 2442207080018806721 1 836.8 0.08 sju 1.0 sju cor
-Failed to align ref and hypotheses; got exception  <class 'IndexError'> string index out of range

@@ -1176,4 +1176,3 @@
 2442207160019924921 1 2124.14 0.079 och 1.0 och cor
 2442207160019924921 1 2124.32 0.879 opererar 1.0 opererar cor
 2442207160019924921 1 2125.6 0.5 femton 1.0 femton cor
-Failed to align ref and hypotheses; got exception  <class 'IndexError'> string index out of range

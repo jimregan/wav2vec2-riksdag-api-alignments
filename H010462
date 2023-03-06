@@ -72,4 +72,3 @@
 2442207150019723721 1 68.86 0.7 tjugohundraelva 1.0 elva sub
 2442207150019723721 1 69.7 0.439 kolon 1.0 : sub
 2442207150019723721 1 70.46 0.56 tjugonio 1.0 tjugonio cor
-Failed to align ref and hypotheses; got exception  <class 'IndexError'> string index out of range

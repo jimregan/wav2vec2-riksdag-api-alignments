@@ -3387,4 +3387,3 @@
 2442207080018619321 1 1458.86 0.06 orh 1.0 och sub
 2442207080018619321 1 1458.96 0.44 tugohundrasex 1.0 tvåtusen sub
 2442207080018619321 1 1460.32 0.039 så 1.0 sex sub
-Failed to align ref and hypotheses; got exception  <class 'IndexError'> string index out of range

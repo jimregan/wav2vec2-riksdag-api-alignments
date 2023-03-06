@@ -549,4 +549,3 @@
 2442207130019370621 1 254.76 0.7 tjugohundratio 1.0 tio sub
 2442207130019370621 1 255.56 0.219 kolo 1.0 : sub
 2442207130019370621 1 255.88 0.459 niohundra 1.0 niohundra cor
-Failed to align ref and hypotheses; got exception  <class 'IndexError'> string index out of range

@@ -597,4 +597,3 @@
 2442207180020016721 1 267.1 0.179 till 1.0 till cor
 2442207180020016721 1 267.279 0.0 <eps> 1.0 tvåtusen del
 2442207180020016721 1 267.34 0.2 tjugo 1.0 tjugo cor
-Failed to align ref and hypotheses; got exception  <class 'IndexError'> string index out of range
